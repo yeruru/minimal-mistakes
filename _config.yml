@@ -22,13 +22,6 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Your Name"
 description              : "An amazing website."
 url                      : "https://yeruru.github.io"
-links:
-    - label: "Notion"
-      icon: "fa-regular fa-pen-to-square"
-      # url: "https://www.notion.so/55c2488090fb4152994685730233eeb8?v=7a818faf4e4844e091d36440551a4145"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/yeruru"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
